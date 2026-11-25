@@ -14,6 +14,6 @@ Clickable UI prototype for a fit-first online shop, built for our training proje
 - **Fit profile** – editable measurements, return reasons and the rules learned from them
 
 ## Run
-Open `fitted-prototype.html` in a browser. No build step.
+Open `index.html` in a browser. No build step.
 
 All persona, product, creator and statistics data is sample data. Integrations and the chatbot are simulated.
